@@ -1,0 +1,14 @@
+a > b
+a < b
+a >=b
+a <= b
+
+a == b
+a != b
+
+++a (Increment)
+--a (Decrement)
+
+(a && b) (AND)
+(a || b) (OR)
+!(a && b) (NOT)
